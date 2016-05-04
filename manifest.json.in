@@ -1,0 +1,17 @@
+{
+    "name": "layoutmirroring.liu-xiao-guo",
+    "description": "description of LayoutMirroring",
+    "architecture": "@CLICK_ARCH@",
+    "title": "LayoutMirroring",
+    "hooks": {
+        "LayoutMirroring": {
+            "apparmor": "LayoutMirroring/LayoutMirroring.apparmor",
+            "desktop":  "LayoutMirroring/LayoutMirroring.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

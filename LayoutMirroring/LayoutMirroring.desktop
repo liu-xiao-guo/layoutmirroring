@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=LayoutMirroring
+Exec=qmlscene %U LayoutMirroring/Main.qml
+Icon=LayoutMirroring/LayoutMirroring.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
